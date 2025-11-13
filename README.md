@@ -30,9 +30,9 @@ Mobile and desktop designs are included in the repository as screenshots.
 
 ### Links
 
-    Solution URL: Add solution URL here
+    Solution URL: Soon to Come
 
-    Live Site URL: Add live site URL here
+    Live Site URL: https://bainstardust.github.io/Blog-Card---Frontend-Mentors/
 
 ### My process
 
